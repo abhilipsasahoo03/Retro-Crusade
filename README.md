@@ -6,3 +6,5 @@ The first one is Spaceshooter built using Arcade. It's a sidescroller game where
 The second game is Hangman built using Tkinter. It follows any ordinary hangman rules except it's retro version.
 
 Features missing in the game: Pause feature, Scorekeeping, Extra lives, Boss characters, Hints, Advanced levels, Background music, etc.
+
+The mainscreen is built using Tkinter as well.
